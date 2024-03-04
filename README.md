@@ -16,9 +16,10 @@ Discord session opener is a easy to use program that lets you open up to 8 diffe
 
 ## Installation
 
-Download the .ZIP and unzip it.
+Download latest release and run DiscordSessionOpener.exe
 
-DiscordSessionOpener > bin > Debug > DiscordSessionOpener.exe
+You could also build the source yourself with the master.zip
+
 
 
 
@@ -33,3 +34,5 @@ You can be logged into a maximum of 8 different accounts at once.
 
 
 For questions or issues you may have contact me by discord: teddedev
+
+
